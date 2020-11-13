@@ -33,6 +33,11 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+tasks.withType(Test) {
+    systemProperties = System.properties
+}
+
 allure {
     autoconfigure = true
     version = "${allureVersion}"

@@ -10,8 +10,8 @@ abstract class BaseTest {
     @BeforeAll
     static void setupAllure()
     {
-        Configuration.timeout = 1;
         SelenideLogger.addListener("AllureSelenide",
                 new AllureSelenide().screenshots(true).savePageSource(true));
+        //Configuration.headless = true;
     }
 }
