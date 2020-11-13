@@ -3,6 +3,7 @@ package ru.heisenbug.selenide.heisenbug.demo.allure;
 import com.automation.remarks.junit5.Video;
 import io.qameta.allure.Step;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 
@@ -58,6 +59,7 @@ public class todoMVCTestWithExtendsBaseTest extends BaseTest {
         $(By.xpath("//span[@class='todo-count']")).shouldBe((visible));
     }
 
+    @Disabled
     @Test
     public void tes3() {
         $(By.xpath("//span[@class='foo-bar']")).shouldBe((visible));
