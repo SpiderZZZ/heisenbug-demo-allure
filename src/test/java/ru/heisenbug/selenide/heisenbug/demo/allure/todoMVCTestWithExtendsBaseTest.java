@@ -48,7 +48,7 @@ public class todoMVCTestWithExtendsBaseTest extends BaseTest {
         $(By.xpath("//input[@ng-model='newTodo']")).shouldBe((visible));
     }
 
-    @Video
+    //@Video
     @Test
     public void test2() {
         $(By.xpath("//input[@ng-model='newTodo']")).setValue("make Coffee").pressEnter();
