@@ -1,6 +1,7 @@
 package ru.heisenbug.selenide.heisenbug.demo.allure;
 
 import com.automation.remarks.junit5.Video;
+import org.junit.jupiter.api.Disabled;
 import io.qameta.allure.Step;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
