@@ -30,12 +30,12 @@ jobs:
         name: gradle test report
         path:  build/reports
     - name: Get Allure history
-        uses: actions/checkout@v2
-        if: always()
-        continue-on-error: true
-        with:
-          ref: gh-pages
-          path: gh-pages
+      uses: actions/checkout@v2
+      if: always()
+      continue-on-error: true
+      with:
+        ref: gh-pages
+        path: gh-pages
     - name: Generate allure report with history
       uses: simple-elf/allure-report-action@v1.3
     - name: Deploy report to Github Pages
