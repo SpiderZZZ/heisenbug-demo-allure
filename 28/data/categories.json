@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {By.xpath: //span[@class='foo-bar']}\nExpected: visible\nScreenshot: file:/home/runner/work/heisenbug-demo-allure/heisenbug-demo-allure/build/reports/tests/1605528424314.0.png\nPage source: file:/home/runner/work/heisenbug-demo-allure/heisenbug-demo-allure/build/reports/tests/1605528424314.0.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@class='foo-bar']\"}",
+      "children" : [ {
+        "name" : "tes3()",
+        "uid" : "13ca161c0fa1258a",
+        "parentUid" : "bcb7bb334b293a891c45e8fa81b4ee49",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605528415578,
+          "stop" : 1605528424903,
+          "duration" : 9325
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bcb7bb334b293a891c45e8fa81b4ee49"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

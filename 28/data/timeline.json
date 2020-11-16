@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az40-953",
+    "children" : [ {
+      "name" : "3891@fv-az40-953.Test worker(9)",
+      "children" : [ {
+        "name" : "test2()",
+        "uid" : "951f4f2d59cfa594",
+        "parentUid" : "03b6d9c7754c20de240a368d32b6e834",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605528427092,
+          "stop" : 1605528427092,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tes3()",
+        "uid" : "13ca161c0fa1258a",
+        "parentUid" : "03b6d9c7754c20de240a368d32b6e834",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605528415578,
+          "stop" : 1605528424903,
+          "duration" : 9325
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test2()",
+        "uid" : "7b128cc1bd10aa80",
+        "parentUid" : "03b6d9c7754c20de240a368d32b6e834",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605528425837,
+          "stop" : 1605528427065,
+          "duration" : 1228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test1()",
+        "uid" : "ac5e69e07ed125df",
+        "parentUid" : "03b6d9c7754c20de240a368d32b6e834",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605528425007,
+          "stop" : 1605528425826,
+          "duration" : 819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test1()",
+        "uid" : "a493a6bc82fe5d08",
+        "parentUid" : "03b6d9c7754c20de240a368d32b6e834",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605528427083,
+          "stop" : 1605528427083,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "03b6d9c7754c20de240a368d32b6e834"
+    } ],
+    "uid" : "3c78a391a9e32b1a90a01be1b9a8a784"
+  } ],
+  "name" : "timeline"
+}
