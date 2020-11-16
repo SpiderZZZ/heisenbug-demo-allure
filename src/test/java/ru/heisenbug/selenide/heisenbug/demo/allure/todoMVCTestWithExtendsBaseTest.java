@@ -60,6 +60,7 @@ public class todoMVCTestWithExtendsBaseTest extends BaseTest {
         $(By.xpath("//span[@class='todo-count']")).shouldBe((visible));
     }
 
+    @Disabled
     @Test
     public void tes3() {
         $(By.xpath("//span[@class='foo-bar']")).shouldBe((visible));
