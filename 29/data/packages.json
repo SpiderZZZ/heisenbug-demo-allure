@@ -1,0 +1,82 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "ru.heisenbug.selenide.heisenbug.demo.allure",
+    "children" : [ {
+      "name" : "todoMVCTestWithExtendsBaseTest",
+      "children" : [ {
+        "name" : "tes3",
+        "uid" : "81347a4e27c0d262",
+        "parentUid" : "5e7c7ccf6d1d3d4de3c4bace22e39a27",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605528837871,
+          "stop" : 1605528837872,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test1",
+        "uid" : "b6849a594c7e5297",
+        "parentUid" : "5e7c7ccf6d1d3d4de3c4bace22e39a27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605528838007,
+          "stop" : 1605528847946,
+          "duration" : 9939
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test2",
+        "uid" : "c55961a4a0f0fe1d",
+        "parentUid" : "5e7c7ccf6d1d3d4de3c4bace22e39a27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605528848035,
+          "stop" : 1605528849381,
+          "duration" : 1346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5e7c7ccf6d1d3d4de3c4bace22e39a27"
+    }, {
+      "name" : "todoMVCTestWithExtendWith",
+      "children" : [ {
+        "name" : "test1",
+        "uid" : "77b9153cbdab003a",
+        "parentUid" : "ba7ce01549b3a33b5b4de528839b6678",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605528849395,
+          "stop" : 1605528849395,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test2",
+        "uid" : "e3b944b103fb83b",
+        "parentUid" : "ba7ce01549b3a33b5b4de528839b6678",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1605528849397,
+          "stop" : 1605528849397,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ba7ce01549b3a33b5b4de528839b6678"
+    } ],
+    "uid" : "ru.heisenbug.selenide.heisenbug.demo.allure"
+  } ],
+  "name" : "packages"
+}

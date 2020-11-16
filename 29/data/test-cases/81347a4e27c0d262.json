@@ -1,0 +1,119 @@
+{
+  "uid" : "81347a4e27c0d262",
+  "name" : "tes3()",
+  "fullName" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest.tes3",
+  "historyId" : "6c9e1c4d3e2085ade73b9627f567b3d3",
+  "time" : {
+    "start" : 1605528837871,
+    "stop" : 1605528837872,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "skipped",
+  "statusMessage" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest.tes3() is @Disabled",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-953"
+  }, {
+    "name" : "thread",
+    "value" : "3957@fv-az40-953.Test worker(9)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "tes3"
+  }, {
+    "name" : "suite",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 5,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "13ca161c0fa1258a",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/28//#testresult/13ca161c0fa1258a",
+        "status" : "failed",
+        "statusDetails" : "Element not found {By.xpath: //span[@class='foo-bar']}\nExpected: visible\nScreenshot: file:/home/runner/work/heisenbug-demo-allure/heisenbug-demo-allure/build/reports/tests/1605528424314.0.png\nPage source: file:/home/runner/work/heisenbug-demo-allure/heisenbug-demo-allure/build/reports/tests/1605528424314.0.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@class='foo-bar']\"}",
+        "time" : {
+          "start" : 1605528415578,
+          "stop" : 1605528424903,
+          "duration" : 9325
+        }
+      }, {
+        "uid" : "28d3248fdb811081",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/27//#testresult/28d3248fdb811081",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest.tes3() is @Disabled",
+        "time" : {
+          "start" : 1605528044838,
+          "stop" : 1605528044839,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "b1b90b847bca955",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/26//#testresult/b1b90b847bca955",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest.tes3() is @Disabled",
+        "time" : {
+          "start" : 1605527882185,
+          "stop" : 1605527882187,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "3a9729dcadc94d7b",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/25//#testresult/3a9729dcadc94d7b",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest.tes3() is @Disabled",
+        "time" : {
+          "start" : 1605527619525,
+          "stop" : 1605527619527,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "20b67dc587fa4b37",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/23//#testresult/20b67dc587fa4b37",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest.tes3() is @Disabled",
+        "time" : {
+          "start" : 1605526782221,
+          "stop" : 1605526782222,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "81347a4e27c0d262.json",
+  "parameterValues" : [ ]
+}

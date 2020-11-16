@@ -1,0 +1,119 @@
+{
+  "uid" : "77b9153cbdab003a",
+  "name" : "test1()",
+  "fullName" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test1",
+  "historyId" : "c03ff18c22d4931e12b9571997451b9a",
+  "time" : {
+    "start" : 1605528849395,
+    "stop" : 1605528849395,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "skipped",
+  "statusMessage" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test1() is @Disabled",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-953"
+  }, {
+    "name" : "thread",
+    "value" : "3957@fv-az40-953.Test worker(9)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith"
+  }, {
+    "name" : "testMethod",
+    "value" : "test1"
+  }, {
+    "name" : "suite",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 6,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "a493a6bc82fe5d08",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/28//#testresult/a493a6bc82fe5d08",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test1() is @Disabled",
+        "time" : {
+          "start" : 1605528427083,
+          "stop" : 1605528427083,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "45804e7e78eff151",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/27//#testresult/45804e7e78eff151",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test1() is @Disabled",
+        "time" : {
+          "start" : 1605528058628,
+          "stop" : 1605528058628,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "79a6eff705d0ab62",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/26//#testresult/79a6eff705d0ab62",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test1() is @Disabled",
+        "time" : {
+          "start" : 1605527891561,
+          "stop" : 1605527891561,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "be02d9c2cde65a52",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/25//#testresult/be02d9c2cde65a52",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test1() is @Disabled",
+        "time" : {
+          "start" : 1605527628823,
+          "stop" : 1605527628823,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6168c740dba14351",
+        "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/23//#testresult/6168c740dba14351",
+        "status" : "skipped",
+        "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test1() is @Disabled",
+        "time" : {
+          "start" : 1605526792750,
+          "stop" : 1605526792750,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "77b9153cbdab003a.json",
+  "parameterValues" : [ ]
+}
