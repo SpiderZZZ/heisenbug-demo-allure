@@ -1,0 +1,78 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest",
+    "children" : [ {
+      "name" : "tes3()",
+      "uid" : "28d3248fdb811081",
+      "parentUid" : "79126d7cfc1ccbf05d5dd98e827b02d4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605528044838,
+        "stop" : 1605528044839,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test1()",
+      "uid" : "bacc183173b9f74b",
+      "parentUid" : "79126d7cfc1ccbf05d5dd98e827b02d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605528044952,
+        "stop" : 1605528057472,
+        "duration" : 12520
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test2()",
+      "uid" : "9ffe4a29475deb1e",
+      "parentUid" : "79126d7cfc1ccbf05d5dd98e827b02d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605528057572,
+        "stop" : 1605528058616,
+        "duration" : 1044
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "79126d7cfc1ccbf05d5dd98e827b02d4"
+  }, {
+    "name" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith",
+    "children" : [ {
+      "name" : "test1()",
+      "uid" : "45804e7e78eff151",
+      "parentUid" : "64efaa89789c2dc80bbb2640e0947c23",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605528058628,
+        "stop" : 1605528058628,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test2()",
+      "uid" : "bbc49cb4ca5e0939",
+      "parentUid" : "64efaa89789c2dc80bbb2640e0947c23",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605528058632,
+        "stop" : 1605528058632,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "64efaa89789c2dc80bbb2640e0947c23"
+  } ],
+  "name" : "suites"
+}
