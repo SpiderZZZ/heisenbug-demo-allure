@@ -45,7 +45,7 @@ jobs:
     - name: Generate allure report with history
       uses: simple-elf/allure-report-action@v1.3
       if: always()
-      id: allure-report
+      id: allure-report-1
       with:
         allure_results: build/allure-results
         gh-pages: gh-pages
@@ -53,7 +53,7 @@ jobs:
         allure_history: allure-history
     - name: Deploy report to Github Pages
       if: always()
-      id: allure-report
+      id: allure-report-2
       uses: peaceiris/actions-gh-pages@v2
       env:
         PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
