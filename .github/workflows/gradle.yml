@@ -30,4 +30,4 @@ jobs:
         name: gradle test report
         path:  build/reports
     - name: Allure Report with history
-    - uses: simple-elf/allure-report-action@v1.3
+      uses: simple-elf/allure-report-action@v1.3
