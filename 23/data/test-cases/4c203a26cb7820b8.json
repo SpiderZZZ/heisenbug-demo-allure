@@ -1,0 +1,218 @@
+{
+  "uid" : "4c203a26cb7820b8",
+  "name" : "test2()",
+  "fullName" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest.test2",
+  "historyId" : "5d78625ee61b4bbe95f4763f898a355a",
+  "time" : {
+    "start" : 1605526791536,
+    "stop" : 1605526792730,
+    "duration" : 1194
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"open\") http://todomvc.com/examples/angularjs/#/",
+      "time" : {
+        "start" : 1605526791538,
+        "stop" : 1605526791621,
+        "duration" : 83
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //input[@ng-model='newTodo']\") set value(make Coffee)",
+      "time" : {
+        "start" : 1605526791622,
+        "stop" : 1605526791794,
+        "duration" : 172
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //input[@ng-model='newTodo']\") press enter()",
+      "time" : {
+        "start" : 1605526791795,
+        "stop" : 1605526792034,
+        "duration" : 239
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //input[@ng-model='newTodo']\") set value(make Tea)",
+      "time" : {
+        "start" : 1605526792034,
+        "stop" : 1605526792178,
+        "duration" : 144
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //input[@ng-model='newTodo']\") press enter()",
+      "time" : {
+        "start" : 1605526792178,
+        "stop" : 1605526792275,
+        "duration" : 97
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //input[@ng-model='newTodo']\") set value(drink Coffee)",
+      "time" : {
+        "start" : 1605526792275,
+        "stop" : 1605526792416,
+        "duration" : 141
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //input[@ng-model='newTodo']\") press enter()",
+      "time" : {
+        "start" : 1605526792416,
+        "stop" : 1605526792523,
+        "duration" : 107
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //input[@ng-model='newTodo']\") set value(drink Tea)",
+      "time" : {
+        "start" : 1605526792524,
+        "stop" : 1605526792642,
+        "duration" : 118
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //input[@ng-model='newTodo']\") press enter()",
+      "time" : {
+        "start" : 1605526792642,
+        "stop" : 1605526792701,
+        "duration" : 59
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.xpath: //span[@class='todo-count']\") should be(visible)",
+      "time" : {
+        "start" : 1605526792702,
+        "stop" : 1605526792730,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 10,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az40-953"
+  }, {
+    "name" : "thread",
+    "value" : "4202@fv-az40-953.Test worker(9)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test2"
+  }, {
+    "name" : "suite",
+    "value" : "ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c203a26cb7820b8.json",
+  "parameterValues" : [ ]
+}

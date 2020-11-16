@@ -1,0 +1,105 @@
+{
+  "c03ff18c22d4931e12b9571997451b9a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6168c740dba14351",
+      "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/23//#testresult/6168c740dba14351",
+      "status" : "skipped",
+      "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test1() is @Disabled",
+      "time" : {
+        "start" : 1605526792750,
+        "stop" : 1605526792750,
+        "duration" : 0
+      }
+    } ]
+  },
+  "82f9e19d527c25580a942324b088c364" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc206309efc1c729",
+      "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/23//#testresult/fc206309efc1c729",
+      "status" : "skipped",
+      "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendWith.test2() is @Disabled",
+      "time" : {
+        "start" : 1605526792756,
+        "stop" : 1605526792756,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2776973a12df3ef8671ad0bbfaf35505" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3371c49370320e27",
+      "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/23//#testresult/3371c49370320e27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605526782361,
+        "stop" : 1605526791519,
+        "duration" : 9158
+      }
+    } ]
+  },
+  "6c9e1c4d3e2085ade73b9627f567b3d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20b67dc587fa4b37",
+      "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/23//#testresult/20b67dc587fa4b37",
+      "status" : "skipped",
+      "statusDetails" : "public void ru.heisenbug.selenide.heisenbug.demo.allure.todoMVCTestWithExtendsBaseTest.tes3() is @Disabled",
+      "time" : {
+        "start" : 1605526782221,
+        "stop" : 1605526782222,
+        "duration" : 1
+      }
+    } ]
+  },
+  "5d78625ee61b4bbe95f4763f898a355a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c203a26cb7820b8",
+      "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/23//#testresult/4c203a26cb7820b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605526791536,
+        "stop" : 1605526792730,
+        "duration" : 1194
+      }
+    } ]
+  }
+}

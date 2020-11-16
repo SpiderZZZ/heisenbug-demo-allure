@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://SpiderZZZ.github.io/heisenbug-demo-allure",
+  "buildOrder" : 23,
+  "buildName" : "GitHub Actions Run #365914123",
+  "buildUrl" : "https://github.com/SpiderZZZ/heisenbug-demo-allure/actions/runs/365914123",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://SpiderZZZ.github.io/heisenbug-demo-allure/23/"
+} ]
