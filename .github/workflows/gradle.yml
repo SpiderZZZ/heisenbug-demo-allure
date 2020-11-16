@@ -27,5 +27,7 @@ jobs:
     - uses: actions/upload-artifact@v2
       if: failure()
       with:
-        name: Allure Report with history
-        uses: simple-elf/allure-report-action@v1.3
+        name: gradle test report
+        path:  build/reports
+    - name: Allure Report with history
+    - uses: simple-elf/allure-report-action@v1.3
